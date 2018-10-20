@@ -6,7 +6,7 @@ original paper : [Show, Attend and Tell: Neural Image Caption Generation with Vi
 ## reference repositories
 
 1. author's code : [https://github.com/kelvinxu/arctic-captions](https://github.com/kelvinxu/arctic-captions)
-2. parksunwoo/show_attend_and_tell_pytorch : [https://github.com/parksunwoo/show_attend_and_tell_pytorch](https://github.com/parksunwoo/show_attend_and_tell_pytorch)
+2. sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning : [https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 > our code is mainly based on this repository. Thanks!
 
 ## sample result
