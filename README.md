@@ -9,6 +9,14 @@ original paper : [Show, Attend and Tell: Neural Image Caption Generation with Vi
 2. sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning : [https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 > our code is mainly based on this repository. Thanks!
 
+## Todo
+
+> I have no time to complete the remaining functions, because I can't wait to try "Recurrent Attention Convolutional ..." on space weather.
+
+1. beam-search
+2. visualize-attention-map
+3. evaluate
+
 ## sample result
 
 not yet.
